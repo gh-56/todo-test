@@ -1,5 +1,5 @@
 body {
-  background-color: #6cc0ff;
+  background-color: #ffca6c;
 }
 #container {
   display: grid;
@@ -8,14 +8,14 @@ body {
   width: 200px;
   margin: 0 auto;
   margin-bottom: 20px;
-  background-color: #5aaeff;
+  background-color: #ffffff;
   border: 3px solid black;
   border-radius: 15px;
   text-align: center;
 }
 
 #todoList {
-  background-color: white;
+  background-color: #ffffff;
   width: 300px;
   border: 1px solid black;
   border-radius: 15px;
@@ -35,6 +35,7 @@ body {
 }
 
 .rmBtn {
-  margin-left: 20px;
+  float: right;
+  margin-right: 20px;
   padding: 0;
 }
