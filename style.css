@@ -1,0 +1,9 @@
+.completed {
+  text-decoration: line-through;
+  color: gray;
+}
+
+.rmBtn {
+  margin-left: 20px;
+  padding: 0;
+}
